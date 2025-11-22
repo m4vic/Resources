@@ -2,7 +2,7 @@
 
 • [HuggingFace](https://huggingface.co/) • [Twitter](https://x.com/sanskarjajoo13) • [GitHub](https://github.com/m4vic)
 
-A curated list of **100+ high-quality learning resources** covering:
+A list of **100+ high-quality learning resources** covering:
 
 **programming → math → Machine Learning → Deep Learning → Transformers → LLMs → GenAI → Agents → Robotics → Quant Finance**
 
