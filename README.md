@@ -1,7 +1,5 @@
-# 🌟 AI / ML / DL / GenAI / Quant Finance / Robotics – Curated Resource Hub
+# 🌟 THE MODERN ENGINEER TOOLKIT– Curated Resource Hub
 
-## 👤 Author / Socials
-**mavic**  
 • [HuggingFace](https://huggingface.co/) • [Twitter](https://x.com/sanskarjajoo13) • [GitHub](https://github.com/m4vic)
 
 A curated list of **100+ high-quality learning resources** covering:
