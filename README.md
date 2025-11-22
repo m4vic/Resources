@@ -75,9 +75,9 @@ This repository provides a **common foundational track** shared across all field
 ---
 
 ## 🧠 ML Intuition
-| Description | Link |
-|------------|------|
-| ML algorithm intuition playlist | ▶️ [Link](https://youtube.com/playlist?list=PLblh5JKOoLUICTaGLRoHQDuF_7q2GfuJF) |
+| Topic | Description | Link |
+|-------|-------------|------|
+| ML Playlist | ML algorithm intuition playlist <br><small>Visual breakdowns of key ML algorithms</small> | ▶️ [Link](https://youtube.com/playlist?list=PLblh5JKOoLUICTaGLRoHQDuF_7q2GfuJF) |
 
 ---
 
